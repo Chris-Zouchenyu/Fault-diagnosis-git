@@ -9,9 +9,9 @@ This is a simple classification of the dataset:
 
 In this project,I use three models for classifying the dataset(Ten classification).  
 
-The result are over here
+The result are over here:  
 Accuracy:  
 ### CNN: 0.93  
 ### MLP: 0.88  
 ### RES: 0.92  
-![image]()
+![image](https://github.com/Chris-Zouchenyu/Fault-diagnosis-git/blob/main/Fault%20diagnosis/output.png)
